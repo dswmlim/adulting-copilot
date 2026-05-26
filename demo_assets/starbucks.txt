@@ -1,0 +1,7 @@
+STARBUCKS COFFEE
+2026-05-10
+Grande Latte          1 x 5.45      5.45
+Blueberry Muffin      1 x 3.25      3.25
+Subtotal                            8.70
+Tax                                 0.61
+Total                              $9.31
