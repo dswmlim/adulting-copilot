@@ -38,7 +38,7 @@ anyone's cloud.
 
 > [!IMPORTANT]
 > Adulting Copilot is **not** financial, legal, tax, or medical advice. Extracted amounts and
-> dates are best-effort estimates — always verify against your original documents.
+> dates are best-effort estimates - always verify against your original documents.
 
 ---
 
